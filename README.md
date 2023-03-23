@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khandakarfahimahmed
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning shopify 
+- 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me > **khandakarfahimahmed0@gmail.com**
 
